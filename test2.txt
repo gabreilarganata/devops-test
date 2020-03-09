@@ -1,1 +1,2 @@
 add line from master
+add line from beta
